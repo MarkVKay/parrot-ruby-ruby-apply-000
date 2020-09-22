@@ -4,7 +4,6 @@ def parrot(sound = "Squawk")
   "Pretty bird!"
 end
 
-parrot
+parrot("Pretty bird")
 
-sound = "Pretty bird!"
-parrot
+
