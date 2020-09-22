@@ -1,8 +1,8 @@
 def parrot(sound = "Squawk")
   puts "#{sound}!"
-  "Pretty bird!" 
+  returns "Squawk!"
 end
 parrot
-parrot["Squawk", "Pretty bird"]
+
 
 
